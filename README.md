@@ -47,7 +47,7 @@
 1) Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches<br>
 https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches<br>
 
-#### 기여자
+## 기여자
 * 김준성(a.k.a 튜닝몬스터) https://github.com/whistle-boy
 * 방희란(a.k.a 판다스의 신) https://github.com/Heeran-cloud
 * 정혜주(a.k.a 논문통찰자) https://github.com/hjung53
