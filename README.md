@@ -32,7 +32,7 @@
   - accuracy 0.493, precision 0.003, recall 0.714 <br>
 
 데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. accuracy는 중요한 평가 척도가 되기 어려움.<br>
-객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
+객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.<br>
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="500" height="170"/> <br>
 
 ### 6. 구조도
@@ -41,9 +41,9 @@
 
 ### 7. 최종 모델
 총 4가지를 모델로 다음과 같은 성과를 거두었으며, 그 중에서도 LightGBM이 가장 높은 성능을 보임. <br>
-<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
+<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br><br>
 
-### 참조
+## 참조
 1) Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches<br>
 https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches<br>
 
